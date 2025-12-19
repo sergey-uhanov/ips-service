@@ -1,5 +1,5 @@
 import type { RouteRecordRaw } from 'vue-router'
-import { REGISTER_ROUTE, REGISTER_LINK } from '../register'
+import { REGISTER_ROUTE, REGISTER_LINK } from '@/pages/auth/register'
 
 const AUTH_ROUTE_NAME = 'auth'
 

@@ -1,0 +1,3 @@
+import { REGISTER_LINK, REGISTER_ROUTE } from './route'
+
+export { REGISTER_ROUTE, REGISTER_LINK }

@@ -1,3 +1,3 @@
-import { AUTH_SECTION_ROUTE, AUTH_SECTION_LINKS } from './routes'
+import { AUTH_SECTION_ROUTE, AUTH_SECTION_LINKS } from './routes.ts'
 
 export { AUTH_SECTION_ROUTE, AUTH_SECTION_LINKS }
